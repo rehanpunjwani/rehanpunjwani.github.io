@@ -66,7 +66,7 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Building resposive website front end using NextJS, ReactJS and ContextAPI's",
-        "⚡ Developing mobile applications using React Native and solo android apps using Kotlin",
+        "⚡ Developing mobile applications using React Native and solo android apps using Java",
         "⚡ Creating application backend in Node, Express & Flask",
         "⚡ Wordpress Installation to dynamic websites in minutes",
       ],
